@@ -1,1 +1,2 @@
 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
+vscode://vscode.github-authentication/did-authenticate?windowid=3&code=bd156846fb698ab095c2&state=d125a34a-38ac-4439-bd24-7b9ccf80206c
